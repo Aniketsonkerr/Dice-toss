@@ -1,0 +1,31 @@
+html{
+   background-color:rgb(91, 154, 139);
+   font-family: 'DM Sans', sans-serif;
+}
+#player1{
+    float: left;
+    text-align: center;
+    color:rgb(247, 233, 135);
+    font-size: x-large;
+}
+
+#player2{
+    float: right;  
+    text-align: center;
+    color: rgb(247, 233, 135);
+    font-size: x-large;
+}
+footer{
+    clear: both;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    color: rgb(247, 233, 135);
+}
+h1{
+    text-align: center;
+    color:rgb(247, 233, 135);
+}
+div .container{
+    display:inline-block
+}
